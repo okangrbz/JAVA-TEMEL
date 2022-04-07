@@ -13,6 +13,10 @@ public class Isci extends Personel{
 
     public void maasHesapla(){
 
-        System.out.println("Tum isciler 30 gun * 8 saat * 11 euro = " + (30*8*11) + " Euro maas alir");
+        System.out.println("Tum isciler 25 gun * 8 saat * 11 euro = " + (30*8*11) + " Euro maas alir");
     }
+
+
+
+
 }
