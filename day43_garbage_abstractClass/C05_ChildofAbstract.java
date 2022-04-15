@@ -18,6 +18,9 @@ public class C05_ChildofAbstract extends C04 {
     @Override
     public void abstractMethod1() {
 
+    }
+    @Override
+    public void AbstractMethod2() {
 
     }
 }

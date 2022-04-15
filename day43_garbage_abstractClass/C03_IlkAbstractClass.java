@@ -3,9 +3,10 @@ package day43_garbage_abstractClass;
 public abstract class C03_IlkAbstractClass {
 
     public abstract void AbstractMethod();
+    public abstract void AbstractMethod2();
     /*
     Abstract methodlar child classlarin mutlaka override etmesi gereken methodlaradir.
-    dolayisyla hic bir zaman direk caliustirlmazlar
+    dolayisyla hic bir zaman direk calistirilamazlar
     ve bu sebeple method badisine ihtiyac yoktur.
 
     Bir class in veya methodun abtract olup olmadigini anlayabilir miyiz°

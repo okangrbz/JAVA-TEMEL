@@ -4,9 +4,9 @@ public class C01_Final {
 
     final static double piSayisi=3.14;
     final static String okulIsmi="Yildiz Colegi";
+    
 
     public static void main(String[] args) {
-
 
 
         final int sayi=11;

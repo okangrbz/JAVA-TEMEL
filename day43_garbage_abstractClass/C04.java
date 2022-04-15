@@ -9,6 +9,7 @@ public abstract class C04 {
          concrete methodlarin overridde edilmesi OPTIONELDIR
      */
     public  abstract void abstractMethod1();
+    public abstract void AbstractMethod2();
 
     public void concrete(){
         System.out.println("C04 concrete method");
