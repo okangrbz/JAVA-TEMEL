@@ -8,7 +8,7 @@ public class C05_LinkedList {
         //hem list hemde Queue'nun child classidir
         LinkedList <Integer> list = new LinkedList<Integer>();
         list.add(5);
-        list.add(10);//add methodu listengeldigi icin listede hep sona ekler
+        list.add(10);//add methodu listen geldigi icin listede hep sona ekler
         list.addFirst(11);//addFirst deqeu den gelir, basa yazar
         list.addLast(12);// addLast deque den gelirsona ekler
 
